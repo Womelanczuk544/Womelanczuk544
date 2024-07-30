@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Wojciech Omelańczuk</h1>
 <h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=womelanczuk544&label=Profile%20views&color=0e75b6&style=flat" alt="womelanczuk544" /> </p>
+Welcome to my profile!
 
-- Finished projects [https://github.com/Jakub-Domogala/Time-Runner-Alpha](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+I am a passionate gamer and a second-year graduate student at Silesian University of Technology. I love both creating and playing games, and I have always aspired to work in the game development industry. Alongside my love for gaming, I am also an enthusiast of new technologies and constantly seek to learn and explore the latest advancements in the field.
+
+Finished projects:
+- [https://github.com/Jakub-Domogala/Time-Runner-Alpha](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+- [https://github.com/Womelanczuk544/CarSimulatorVR](https://github.com/Womelanczuk544/CarSimulatorVR)
+- [https://github.com/MichalPokrzywa/WkiroProject](https://github.com/MichalPokrzywa/WkiroProject)
+- [https://github.com/Womelanczuk544/Roguelike](https://github.com/Womelanczuk544/Roguelike)
 
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cycsMS48xw6RL-39WafnhdCj1GZQUbwQ/view?usp=sharing](https://drive.google.com/file/d/1cycsMS48xw6RL-39WafnhdCj1GZQUbwQ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1cycsMS48xw6RL-39WafnhdCj1GZQUbwQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
