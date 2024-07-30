@@ -15,6 +15,7 @@ Finished projects:
 - [Program using docker and springboot to solving sudoku using genetic algorithm (Java)](https://github.com/Womelanczuk544/SprignBoot)
 - [Storage cooking recipes program with the function of fridge (C++)](https://github.com/Womelanczuk544/CookingBook)
 - [Program that compares C# and ASM implementation of low pass circular Photographic filter (C#|ASM)](https://github.com/Womelanczuk544/Assembler)
+- [Card Game city builder (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
