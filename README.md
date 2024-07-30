@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wojciech Omelańczuk</h1>
 <h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
+Hi
+
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1A5omYCTuZJS-MJuYIniurmsHi4SecFEN](https://drive.google.com/drive/folders/1A5omYCTuZJS-MJuYIniurmsHi4SecFEN)
