@@ -11,10 +11,10 @@ Finished projects:
 - [Recognizing skin in photos using our own implementation of naive Bayes classifier (python)](https://github.com/MichalPokrzywa/WkiroProject)
 - [Roguelike Game (C#|UNITY)](https://github.com/Womelanczuk544/Roguelike)
 - [pH level detector in water (Arduino|C++)](https://github.com/Womelanczuk544/SMIW)
-- [some of my solutions for SPOJ tasks (Java)](https://github.com/Womelanczuk544/SPOJrepo)
-- [it's a program using docker and springboot to solving sudoku using genetic algorithm (Java)](https://github.com/Womelanczuk544/SprignBoot)
-- [Program that store cooking recipes with function of fridge (C++)](https://github.com/Womelanczuk544/CookingBook)
-- [Program that compare C# and ASM implementation of low pass circular Photographic filter (C#|ASM)](https://github.com/Womelanczuk544/Assembler)
+- [Some of my solutions for SPOJ tasks (Java)](https://github.com/Womelanczuk544/SPOJrepo)
+- [Program using docker and springboot to solving sudoku using genetic algorithm (Java)](https://github.com/Womelanczuk544/SprignBoot)
+- [Storage cooking recipes program with the function of fridge (C++)](https://github.com/Womelanczuk544/CookingBook)
+- [Program that compares C# and ASM implementation of low pass circular Photographic filter (C#|ASM)](https://github.com/Womelanczuk544/Assembler)
 
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
