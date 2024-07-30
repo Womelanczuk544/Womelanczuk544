@@ -6,14 +6,15 @@ Welcome to my profile!
 I am a passionate gamer and a second-year graduate student at Silesian University of Technology. I love both creating and playing games, and I have always aspired to work in the game development industry. Alongside my love for gaming, I am also an enthusiast of new technologies and constantly seek to learn and explore the latest advancements in the field.
 
 Finished projects:
-- [Game from my first GameJam it's a platformer, speedrun and rage game type(C#|UNITY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
-- [Car simulator with visualization based on virtual reality(C#|UNITY)](https://github.com/Womelanczuk544/CarSimulatorVR)
+- [Game from my first GameJam it's a platformer, speedrun and rage game type (C#|UNITY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+- [Car simulator with visualization based on virtual reality (C#|UNITY)](https://github.com/Womelanczuk544/CarSimulatorVR)
 - [Recognizing skin in photos using our own implementation of naive Bayes classifier (python)](https://github.com/MichalPokrzywa/WkiroProject)
-- [Roguelike Game ](https://github.com/Womelanczuk544/Roguelike)
-- [pH level detector in water](https://github.com/Womelanczuk544/SMIW)
-- [some of my solutions for SPOJ tasks](https://github.com/Womelanczuk544/SPOJrepo)
-- [it's a program using docker and springboot to solving sudoku using genetic algorithm](https://github.com/Womelanczuk544/SprignBoot)
-- [Program that store cooking recipes with function of fridge](https://github.com/Womelanczuk544/CookingBook)
+- [Roguelike Game (C#|UNITY)](https://github.com/Womelanczuk544/Roguelike)
+- [pH level detector in water (Arduino|C++)](https://github.com/Womelanczuk544/SMIW)
+- [some of my solutions for SPOJ tasks (Java)](https://github.com/Womelanczuk544/SPOJrepo)
+- [it's a program using docker and springboot to solving sudoku using genetic algorithm (Java)](https://github.com/Womelanczuk544/SprignBoot)
+- [Program that store cooking recipes with function of fridge (C++)](https://github.com/Womelanczuk544/CookingBook)
+- [Program that compare C# and ASM implementation of low pass circular Photographic filter (C#|ASM)](https://github.com/Womelanczuk544/Assembler)
 
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
