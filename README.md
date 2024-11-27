@@ -19,7 +19,7 @@ Finished projects:
 
 - 📫 How to reach me **wojtek.omel@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1cycsMS48xw6RL-39WafnhdCj1GZQUbwQ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Kd1INOvRmPsmuO68fizFTkq_PP7mOhHx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
