@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wojciech Omelańczuk</h1>
-<h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
+<h3 align="center">Unity Developer | C# Developer | Game Designer | Master of Engineering in computer science at Silesian University of Technology</h3>
 
 Welcome to my profile!
 
-I am a passionate gamer and a second-year graduate student at Silesian University of Technology. I love both creating and playing games, and I have always aspired to work in the game development industry. Alongside my love for gaming, I am also an enthusiast of new technologies and constantly seek to learn and explore the latest advancements in the field.
+I am a passionate gamer and a second-year graduate student at the Silesian University of Technology. I love both creating and playing games, and I have always aspired to work in the game development industry. Alongside my enthusiasm for gaming, I am deeply interested in new technologies and constantly seek to explore the latest advancements in the field. I have experience in programming with Java and C#, as well as working with SQL and NoSQL databases. Additionally, I have hands-on practice in application testing, which helps me better understand the full development lifecycle.
 
 Finished projects:
 - [Game from my first GameJam it's a platformer, speedrun and rage game type (C#|UNITY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
