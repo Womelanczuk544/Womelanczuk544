@@ -12,7 +12,7 @@ Finished projects:
 - [Roguelike Game (C#|UNITY)](https://github.com/Womelanczuk544/Roguelike)
 - [pH level detector in water (Arduino|C++)](https://github.com/Womelanczuk544/SMIW)
 - [Some of my solutions for SPOJ tasks (Java)](https://github.com/Womelanczuk544/SPOJrepo)
-- [Program using docker and springboot to solving sudoku using genetic algorithm (Java)](https://github.com/Womelanczuk544/SprignBoot)
+- [Program using docker and springboot (Java)](https://github.com/Womelanczuk544/SprignBoot)
 - [Storage cooking recipes program with the function of fridge (C++)](https://github.com/Womelanczuk544/CookingBook)
 - [Program that compares C# and ASM implementation of low pass circular Photographic filter (C#|ASM)](https://github.com/Womelanczuk544/Assembler)
 - [Card Game city builder (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
